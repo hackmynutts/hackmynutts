@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackmynutts
-- 👀 I’m interested in videogames and stuff
+- 👀 I’m interested in videogames and sports
 - 🌱 I’m currently learning CISCO and codying
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m working at Tek Experts
 - 📫 How to reach me ... @moruacr 
 
 <!---
