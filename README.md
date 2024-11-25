@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hackmynutts
-- 👀 I’m interested in videogames and sports
-- 🌱 I’m currently learning CISCO and codying
-- 💞️ I’m working at Tek Experts
+- 👀 I’m interested in fitness and learning new ways around technology.
+- 🌱 I’m currently learning 3 periods away from bachlor degree in Systems Engineering.
+- 💞️ I’m working at VGM as a developer and consultant for Business Central, so I have full knowledge of AL.
 - 📫 How to reach me ... @moruacr 
 
 <!---
