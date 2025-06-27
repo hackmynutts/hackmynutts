@@ -59,4 +59,11 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 
 ---
 
+📚 Favorite Books
+
+- *Atomic Habits - by James Clear*
+- *The subtle art of not giving a f*ck - by Mark Manson*
+
+---
+
 *“Discipline beats motivation. Consistency builds dreams.”*
