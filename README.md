@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Jorge Morua
 
-I'm a passionate Systems Engineering student from Costa Rica, currently working as a **Junior Business Central Developer** focused on AL development and consulting. With a growing interest in **CI/CD**, **JavaScript**, and **cloud automation**, I'm on a journey to become a top developer in my field — and one day work from Europe 🌍 (Amsterdam, Florence, or Munich are on the vision board!).
+I'm a passionate Systems Engineering student from Costa Rica, currently working as a **Junior Business Central Developer** focused on AL development and consulting. With a growing interest in **CI/CD**, **JavaScript**, and **cloud automation**, I'm on a journey to become a top developer in my field — and one day work from Europe or any part of the world, where the best technology awaits... 🌍 
 
 ---
 
