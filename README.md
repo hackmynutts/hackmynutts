@@ -17,11 +17,11 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 | Area                | Technologies                  |
 |---------------------|-------------------------------|
 | **Languages**       | AL, JavaScript, PHP, SQL      |
-| **Backend**         | Oracle, MySQL, Node.js (learning) |
+| **Backend**         | Oracle, MySQL                 |
 | **Frontend**        | HTML, CSS, JS, Bootstrap      |
 | **DevOps & Tools**  | GitHub Actions, Azure DevOps, Docker (beginner) |
 | **ERP Focus**       | Microsoft Dynamics 365 BC     |
-| **Learning Now**    | React, Power Platform, CI/CD  |
+| **Learning Now**    | React, Power Platform, CI/CD, Python |
 
 ---
 
@@ -62,6 +62,7 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 📚 Favorite Books
 
 - *Atomic Habits - by James Clear*
+- *The Richest Man In Babylon - by George S. Clason*
 - *The subtle art of not giving a f*ck - by Mark Manson*
 
 ---
