@@ -5,10 +5,11 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 ---
 
 ## 🔧 What I'm Working On
-- 🚀 Implementing **CI/CD pipelines** for AL extensions using GitHub Actions and Azure DevOps.
+- 🚀 AL extensions and Power Automate integreations between local systems and Business Central for Mexican leasing company called Mi Nave. 
+- 🌐 Implementing **CI/CD pipelines** for AL extensions using GitHub Actions and Azure DevOps.
 - 🔍 Learning **Power Platform**, **PowerShell scripting**, and **BC containerization**.
 - 🌐 Rebuilding older PHP + Oracle projects with clean JS frontend architecture.
-- ✍️ Writing blog-style content and documenting my learning publicly.
+- ✍️ Trying to commit almost every other day some of my studies.
 
 ---
 
@@ -20,8 +21,8 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 | **Backend**         | Oracle, MySQL                 |
 | **Frontend**        | HTML, CSS, JS, Bootstrap      |
 | **DevOps & Tools**  | GitHub Actions, Azure DevOps, Docker (beginner) |
-| **ERP Focus**       | Microsoft Dynamics 365 BC     |
-| **Learning Now**    | React, Power Platform, CI/CD, Python |
+| **ERP Focus**       | Microsoft Dynamics 365 *BUSINESS CENTRAL*     |
+| **Learning Now**    | Adv. AL, Power Platform, CI/CD, Python |
 
 ---
 
@@ -59,6 +60,14 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 
 ---
 
+📚 Currently reading
+
+- *The Pragmatic Programmer - by David Thomas & Andrew Hunt*
+- *So Good They Can't Ignore YOU by Cal Newport*
+- Using it as a help for Python *REAL Python - by Fletcher Heisler 2013 version*
+
+---
+
 📚 Favorite Books
 
 - *Atomic Habits - by James Clear*
@@ -67,4 +76,4 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 
 ---
 
-*“Discipline beats motivation. Consistency builds dreams.”*
+*“When there is DETERMINATION, a way can be found.”*
