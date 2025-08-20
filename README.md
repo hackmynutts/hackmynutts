@@ -62,7 +62,7 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 
 📚 Currently reading
 
-- *The Pragmatic Programmer - by David Thomas & Andrew Hunt*
+- *The Pragmatic Programmer 20th anniversary - by David Thomas & Andrew Hunt*
 - *So Good They Can't Ignore YOU by Cal Newport*
 - Using it as a help for Python *REAL Python - by Fletcher Heisler 2013 version*
 
