@@ -8,7 +8,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 - 🚀 AL extensions and Power Automate integreations between local systems and Business Central for Mexican leasing company called Mi Nave. 
 - 🌐 Implementing **CI/CD pipelines** for AL extensions using GitHub Actions and Azure DevOps.
 - 🔍 Learning **Power Platform**, **PowerShell scripting**, and **BC containerization**.
-- 🌐 Rebuilding older PHP + Oracle projects with clean JS frontend architecture.
+- 🌐 Working on web project with C# and ASP.Net.
 - ✍️ Trying to commit almost every other day some of my studies.
 
 ---
