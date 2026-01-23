@@ -4,6 +4,8 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 
 ---
 
+💀MEMENTO MORI☠️
+
 ## 🔧 What I'm Working On
 - 🚀 AL extensions and Power Automate integreations between local systems and Business Central for Mexican leasing company called Mi Nave. 
 - 🌐 Implementing **CI/CD pipelines** for AL extensions using GitHub Actions and Azure DevOps.
@@ -63,14 +65,13 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 📚 Currently reading
 
 - *The Pragmatic Programmer 20th anniversary - by David Thomas & Andrew Hunt*
-- *So Good They Can't Ignore YOU by Cal Newport*
-- Using it as a help for Python *REAL Python - by Fletcher Heisler 2013 version*
+- *DEEP WORK by Cal Newport*
 
 ---
 
 📚 Favorite Books
 
-- *Atomic Habits - by James Clear*
+- *INVICTO - by Marcos Vazquez*
 - *The Richest Man In Babylon - by George S. Clason*
 - *The subtle art of not giving a f*ck - by Mark Manson*
 
