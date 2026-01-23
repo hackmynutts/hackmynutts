@@ -33,7 +33,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 - 🔧 [**AL CI/CD Automation**](#)  
   A starter template to set up GitHub Actions for AL extension pipelines (build, test, publish).
 
-- 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**]((https://github.com/hackmynutts/SAMDesignMVC))  
+- 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**](#https://github.com/hackmynutts/SAMDesignMVC)  
   A classic CRUD billing system for orders and customers, with dynamic address handling via AJAX.
 
 - 📝 [**Hotel Management in PHP, Oracle **](#)  
