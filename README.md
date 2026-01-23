@@ -19,8 +19,8 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 
 | Area                | Technologies                  |
 |---------------------|-------------------------------|
-| **Languages**       | AL, JavaScript, PHP, SQL      |
-| **Backend**         | Oracle, MySQL                 |
+| **Languages**       | AL, JavaScript, PHP, SQL, ASP.Net |ASP.Net Core   |
+| **Backend**         | Oracle, MySQL , SQL SERVER                |
 | **Frontend**        | HTML, CSS, JS, Bootstrap      |
 | **DevOps & Tools**  | GitHub Actions, Azure DevOps, Docker (beginner) |
 | **ERP Focus**       | Microsoft Dynamics 365 *BUSINESS CENTRAL*     |
@@ -33,7 +33,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 - 🔧 [**AL CI/CD Automation**](#)  
   A starter template to set up GitHub Actions for AL extension pipelines (build, test, publish).
 
-- 🧾 [**PHP Oracle Inventory management and WebStore System**](#)  
+- 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**]((https://github.com/hackmynutts/SAMDesignMVC))  
   A classic CRUD billing system for orders and customers, with dynamic address handling via AJAX.
 
 - 📝 [**Hotel Management in PHP, Oracle **](#)  
