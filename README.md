@@ -36,7 +36,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 - 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**](https://github.com/hackmynutts/SAMDesignMVC)  
   A classic CRUD billing system for orders and customers, with dynamic address handling via AJAX.
 
-- 📝 [**Hotel Management in PHP, Oracle **](#)  
+- 📝 [**Hotel Management in PHP, Oracle **](https://github.com/hackmynutts/Hotel-Branch-Management)  
 A classic CRUD billing system for orders and customers, with dynamic address handling via AJAX.
 
 > 👉 *More coming soon — I’m cleaning and uploading current projects weekly.*
