@@ -72,6 +72,7 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 📚 Favorite Books
 
 - *INVICTO - by Marcos Vazquez*
+- *DEEP WORK by Cal Newport*
 - *The Richest Man In Babylon - by George S. Clason*
 - *The subtle art of not giving a f*ck - by Mark Manson*
 
