@@ -65,7 +65,7 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 📚 Currently reading
 
 - *The Pragmatic Programmer 20th anniversary - by David Thomas & Andrew Hunt*
-- *DEEP WORK by Cal Newport*
+- *The Psycology of Money - Morgan Housel*
 
 ---
 
