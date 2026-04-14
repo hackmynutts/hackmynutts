@@ -19,7 +19,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 
 | Area                | Technologies                  |
 |---------------------|-------------------------------|
-| **Languages**       | AL, JavaScript, C#, SQL, ASP.Net | ASP.Net Core, PHP  |
+| **Languages**       | AL, JavaScript, C#, SQL, ASP.Net 8 / ASP.Net Core 8, PHP  |
 | **Backend**         | Oracle, MySQL , SQL SERVER                |
 | **Frontend**        | HTML, CSS, JS, Bootstrap      |
 | **DevOps & Tools**  | GitHub Actions, Azure DevOps, Docker (beginner) |
