@@ -30,8 +30,8 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 
 ## 📂 Featured Projects
 
-- 🔧 [**AL CI/CD Automation**](#)  
-  A starter template to set up GitHub Actions for AL extension pipelines (build, test, publish).
+- 🔧 [**ASP.NET CORE & SQL SERVER BookLibrary connecting to OpenLibrary API**]([(https://github.com/hackmynutts/BookLibrary)])  
+  A API backend with security, minimal api to connect to OpenLibrary to consult books and add them with important info to SQL SERVER DB.
 
 - 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**](https://github.com/hackmynutts/SAMDesignMVC)  
   A classic CRUD billing system for orders and customers, with dynamic address handling via AJAX.
@@ -48,7 +48,7 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 - ✅ Build a complete CI/CD pipeline for Business Central
 - ✅ Strengthen my JavaScript skills and transition into modern front-end frameworks
 - ✅ Grow my GitHub and LinkedIn footprint with documented projects
-- 🧠 Finish my degree in Systems Engineering (1.5 years left!)
+- 🧠 Finish my degree in Systems Engineering 
 - ✈️ Land a remote or relocation-friendly job in Europe
 
 ---
