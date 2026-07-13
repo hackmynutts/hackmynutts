@@ -30,7 +30,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 
 ## 📂 Featured Projects
 
-- 🔧 [**ASP.NET CORE & SQL SERVER BookLibrary connecting to OpenLibrary API**]([(https://github.com/hackmynutts/BookLibrary)])  
+- 🔧 [**ASP.NET CORE & SQL SERVER BookLibrary connecting to OpenLibrary API**](https://github.com/hackmynutts/BookLibrary)  
   A API backend with security, minimal api to connect to OpenLibrary to consult books and add them with important info to SQL SERVER DB.
 
 - 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**](https://github.com/hackmynutts/SAMDesignMVC)  
