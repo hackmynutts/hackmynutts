@@ -58,7 +58,7 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 - 💼 [LinkedIn](https://www.linkedin.com/in/jorgemoruagonzalez/)
 - 💻 [Portfolio Website (Coming Soon)](#)
 - ✉️ jorgemoruagonzalez@gmail.com
-- ✉️ Work email: jorge.morua@prestarte.cr
+- ✉️ Work email: jorgemoruagonzalez@gmail.com
 
 ---
 
