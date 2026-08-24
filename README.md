@@ -19,7 +19,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 
 | Area                | Technologies                  |
 |---------------------|-------------------------------|
-| **Languages**       | AL, JavaScript, C#, SQL, ASP.Net 8 / ASP.Net Core 8, PHP  |
+| **Languages**       | AL, JavaScript, C#, SQL, ASP.Net 4.8 / ASP.Net Core 10, PHP  |
 | **Backend**         | Oracle, MySQL , SQL SERVER                |
 | **Frontend**        | HTML, CSS, JS, Bootstrap      |
 | **DevOps & Tools**  | GitHub Actions, Azure DevOps, Docker (beginner) |
@@ -31,7 +31,7 @@ I'm a passionate Systems Engineering student from Costa Rica, currently working 
 ## 📂 Featured Projects
 
 - 🔧 [**ASP.NET CORE & SQL SERVER BookLibrary connecting to OpenLibrary API**](https://github.com/hackmynutts/BookLibrary)  
-  A API backend with security, minimal api to connect to OpenLibrary to consult books and add them with important info to SQL SERVER DB.
+  An API backend with security, minimal api to connect to OpenLibrary to consult books and add them with important info to SQL SERVER DB.
 
 - 🧾 [**ASP.NET & SQL SERVER Hosted Inventory management and WebStore System**](https://github.com/hackmynutts/SAMDesignMVC)  
   A classic CRUD billing system for orders and customers, with dynamic address handling via AJAX.
@@ -64,14 +64,14 @@ A classic CRUD billing system for orders and customers, with dynamic address han
 
 📚 Currently reading
 
-- *The Pragmatic Programmer 20th anniversary - by David Thomas & Andrew Hunt*
-- *Meditations - Marcus Aurelius*
+- *grokking algorithms by Aditya Bhargava*
+- *Rich Dad, Poor Dad - Robert Kiyosaki*
 
 ---
 
 📚 Favorite Books
 
-- *INVICTO - by Marcos Vazquez*
+- *Pragmatic Programmer - by David Thomas & Andrew Hunt*
 - *DEEP WORK by Cal Newport*
 - *The Richest Man In Babylon - by George S. Clason*
 - *The subtle art of not giving a f*ck - by Mark Manson*
