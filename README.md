@@ -3,9 +3,10 @@
 # Hey there, I'm Jorge Morua 👋
 
 <a href="https://github.com/hackmynutts">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Junior+Business+Central+Developer;.NET+%7C+ASP.NET+Core+%7C+SQL+Server;Systems+Engineering+Student+%F0%9F%87%A8%F0%9F%87%B7;CI%2FCD+%26+Cloud+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Open+to+work+%F0%9F%9F%A2;Business+Central+(AL)+Developer;.NET+%7C+ASP.NET+Core+%7C+SQL+Server;Systems+Engineering+Student+%F0%9F%87%A8%F0%9F%87%B7;CI%2FCD+%26+Cloud+Automation+Enthusiast" alt="Typing SVG" />
 </a>
 
+<img src="https://img.shields.io/badge/Open_to_work-2EA44F?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work"/>
 <a href="https://www.linkedin.com/in/jorgemoruagonzalez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jorgemoruagonzalez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=hackmynutts&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -16,17 +17,20 @@
 
 ### 🧑‍💻 About me
 
-Systems Engineering student from **Costa Rica 🇨🇷**, working as a **Junior Business Central Developer** (AL development & consulting).
-On the side I build full-stack web systems with **C#, ASP.NET Core and SQL Server** — layered APIs, MVC front-ends and real client projects.
-Goal: keep growing into a top developer and, one day, work from Europe or anywhere the best tech is happening. 🌍
+Systems Engineering student from **Costa Rica 🇨🇷** with professional experience as a **Business Central Developer** (AL development & consulting).
+I also build full-stack web systems with **C#, ASP.NET Core and SQL Server** — layered APIs, MVC front-ends and real client projects.
+**Currently open to new opportunities** — Business Central / AL, .NET backend or full-stack roles, remote or relocation-friendly. 🌍
 
 > 💀 *Memento mori* — ship today.
 
+### 💼 Experience
+
+- **Junior Business Central Developer** — built AL extensions and Power Automate integrations between local systems and Dynamics 365 Business Central for a Mexican leasing company, plus CI/CD work for AL extensions with GitHub Actions and Azure DevOps.
+
 ### 🔧 What I'm working on
 
-- 🚀 **AL extensions + Power Automate** integrations between local systems and Business Central for *Mi Nave*, a Mexican leasing company
-- ⚙️ **CI/CD pipelines** for AL extensions with GitHub Actions and Azure DevOps
 - 🛒 **CatalogStore** — inventory, catalog & invoicing system for a real client (ASP.NET Core 10 + SQL Server)
+- ⚙️ **CI/CD pipelines** for AL extensions with GitHub Actions and Azure DevOps
 - 🐍 Python Essentials 1 & 2 labs, Power Platform, PowerShell and BC containerization
 
 ---
@@ -118,7 +122,7 @@ Goal: keep growing into a top developer and, one day, work from Europe or anywhe
 - [ ] Level up JavaScript and move into modern front-end frameworks (React)
 - [ ] Grow my GitHub and LinkedIn footprint with well-documented projects
 - [ ] 🎓 Finish my degree in Systems Engineering
-- [ ] ✈️ Land a remote or relocation-friendly role in Europe
+- [ ] 💼 Land my next role — remote or relocation-friendly, ideally in Europe
 
 ---
 
