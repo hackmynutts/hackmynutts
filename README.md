@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open_to_work-2EA44F?style=for-the-badge" alt="Open to work"/>
   <a href="https://www.linkedin.com/in/jorgemoruagonzalez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:jorgemoruagonzalez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=hackmynutts&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+  <a href="mailto:jorgemoruagonzalez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></p>
 
 </div>
 
@@ -112,7 +110,7 @@ I also build full-stack web systems with **C#, ASP.NET Core and SQL Server** —
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hackmynutts&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackmynutts&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=hackmynutts&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=hackmynutts&timezone=America/Costa_Rica&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 </div>
 
 ---
